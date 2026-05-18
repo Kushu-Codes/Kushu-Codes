@@ -3,30 +3,53 @@
 # Kushagra Dixit
 
 ```python
-print("Learning one step at a time.")
+while True:
+    learn()
+    build()
+    improve()
 ```
 
-🐍 Python  
-🐧 Linux  
-🌱 Learning Backend Development  
-⚡ Future C / C++ Developer  
+Backend Development • Python • Linux  
+Learning C & C++ soon
 
 </div>
 
 ---
 
-### Currently
-- Learning Python deeply
-- Exploring Linux
-- Starting backend development soon
-- Interested in low-level programming
+## About Me
+
+- 🐍 Learning Python & backend development
+- 🐧 Linux enjoyer
+- 🌱 Exploring Node.js, Express & MongoDB
+- ⚡ Interested in systems and low-level programming
+- 🚀 Building projects and learning in public
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,linux,git,github,vscode,c,cpp&theme=dark" />
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kushu-Codes&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushu-Codes&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kushu-Codes&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushu-Codes&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+> “First, solve the problem. Then, write the code.”
 
 </div>
